@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gustavogit4" alt="gustavogit4" /></a> </p>
 
-- 🔭 **Projetos relacionados a aprendizado de estatística aplicada e Python.**
+- 🔭 Atualmente trabalho em: **Projetos relacionados a aprendizado de estatística aplicada e Python.**
 
-- 🌱 **Fundamentos de estatística para data science. Ferramentas de programação como Python e bibliotecas de dados (Pandas, NumPy, Matplotlib).**
+- 🌱  Atualmente estou aprendendo: **Fundamentos de estatística para data science. Ferramentas de programação como Python e bibliotecas de dados (Pandas, NumPy, Matplotlib).**
 
-- 🤝 **Projetos de ciência de dados, com foco em visualização de dados e análises avançadas.**
+- 🤝 Busco colaborar em: **Projetos de ciência de dados, com foco em visualização de dados e análises avançadas.**
 
-- 💬 Ask me about **Estatística aplicada. Fundamentos de Data Science.**
+- 💬 Pergunte-me sobre: **Estatística aplicada. Fundamentos de Data Science.**
 
-- 📫 How to reach me **https://www.linkedin.com/in/gustavo-de-paula-silva-804463236/ http://lattes.cnpq.br/1739937477939798**
+- 📫 Como me encontrar: **https://www.linkedin.com/in/gustavo-de-paula-silva-804463236/ http://lattes.cnpq.br/1739937477939798**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
