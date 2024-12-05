@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou Gustavo de Paula Silva</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavogit4&label=Profile%20views&color=0e75b6&style=flat" alt="gustavogit4" /> </p>
 
