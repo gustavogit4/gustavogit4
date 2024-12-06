@@ -1,4 +1,4 @@
-<<h1 align="center">Oi 👋, eu sou Gustavo de Paula Silva</h1>
+<h1 align="center">Oi 👋, eu sou Gustavo de Paula Silva</h1>
 <h3 align="center">Apaixonado por ciência de dados e análise estatística</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavogit4&label=Profile%20views&color=0e75b6&style=flat" alt="gustavogit4" /> </p>
@@ -17,9 +17,6 @@
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a>
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-    <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-    <a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">Estatísticas do GitHub:</h3>
