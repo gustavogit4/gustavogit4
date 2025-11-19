@@ -1,58 +1,51 @@
-Gustavo de Paula Silva
+# Gustavo de Paula Silva  
+**Analista de Dados | Estatística Aplicada | Automação e Pipelines de Dados**
 
-Analista de Dados | Estatística Aplicada | Automação e Pipelines de Dados
+Profissional com foco em análise e engenharia de dados, desenvolvimento de pipelines, modelagem estatística e construção de dashboards analíticos.  
+Atualmente cursando pós-graduação em **Estatística para Ciência de Dados (PUC Minas)** e com experiência prática em Python, SQL, Power BI e bancos relacionais.
 
-Profissional com foco em análise e engenharia de dados, desenvolvimento de pipelines, modelagem estatística e construção de dashboards analíticos.
-Atualmente cursando pós-graduação em Estatística para Ciência de Dados (PUC Minas) e com experiência prática em Python, SQL, Power BI e bancos relacionais.
+---
+## Sobre mim
 
-Sobre mim
+- Interesse principal em **engenharia de dados**, análise estatística e automação.  
+- Experiência no desenvolvimento de **pipelines de dados** utilizando Python + SQL.  
+- Conhecimento em **modelagem dimensional** e preparação de dados para BI.  
+- Compromisso com boas práticas: versionamento, documentação e reprodutibilidade.  
+- Estudo contínuo em estatística, SQL avançado e DataOps.
 
-Interesse principal em engenharia de dados, análise estatística e automação.
+---
+## Projetos em Destaque
 
-Experiência no desenvolvimento de pipelines utilizando Python + SQL.
-
-Conhecimento em modelagem dimensional e preparação de dados para BI.
-
-Compromisso com boas práticas: versionamento, documentação e reprodutibilidade.
-
-Estudo contínuo em estatística, SQL avançado e DataOps.
-
-Projetos em Destaque
-E-commerce Data Analytics — Pipeline completo (Python, SQL, Power BI)
-
+### **E-commerce Data Analytics — Pipeline completo (Python, SQL, Power BI)**  
 Projeto profissional que integra todas as camadas do fluxo analítico:
 
-Geração de dados sintéticos realistas
+- Geração de dados sintéticos realistas  
+- Armazenamento relacional (SQLite)  
+- Transformações e métricas de negócio  
+- Automação com Python  
+- Dashboard dinâmico em Power BI  
+- Modelagem dimensional (Star Schema)
 
-Transformações e integrações com Pandas + SQL
-
-Banco de dados SQLite em modelo estrela
-
-Automação do pipeline via script Python
-
-Dashboard em Power BI conectado ao banco e aos CSVs exportados
-
-Repositório:
+**Repositório:**  
 https://github.com/gustavogit4/ecommerce-data-analytics
 
-Habilidades Técnicas
-Área	Competências
-Linguagens	Python, SQL
-Análise de Dados	Pandas, NumPy, Estatística descritiva e inferencial
-Banco de Dados	SQLite, consultas SQL
-Visualização	Power BI
-Engenharia de Dados	Pipelines, automação, manipulação de dados
-Ferramentas	Git, GitHub, VS Code, Jupyter Notebook
-Contato
+---
+## Competências Técnicas
 
-LinkedIn: https://www.linkedin.com/in/gustavo-paula-silva
+**Python** – Pandas, NumPy, automação, manipulação e análise de dados  
+**SQL** – modelagem relacional, consultas analíticas, joins, agregações  
+**Power BI** – dashboards, modelagem, DAX  
+**Ferramentas** – Git & GitHub, VS Code, Jupyter Notebook  
+**Fundamentos** – ETL/ELT, Star Schema, DataOps, estatística aplicada, métricas de negócio
+---
 
-GitHub: https://github.com/gustavogit4
+---
 
-E-mail: gdepaulasilva966@gmail.com
+## Contato
 
-Estatísticas do GitHub
+**E-mail:** gdepaulasilva966@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/gustavodepaulasilva/  
 
-(opcional — pode remover sem problema caso não queira)
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavogit4&show_icons=true&theme=default)
+Se quiser entender qualquer projeto meu em profundidade — arquitetura, decisões técnicas, modelagem ou melhorias — estou sempre aberto a conversar.
