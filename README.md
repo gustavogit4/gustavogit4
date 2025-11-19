@@ -1,28 +1,58 @@
-<h1 align="center">Oi 👋, eu sou Gustavo de Paula Silva</h1>
-<h3 align="center">Apaixonado por ciência de dados e análise estatística</h3>
+Gustavo de Paula Silva
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavogit4&label=Profile%20views&color=0e75b6&style=flat" alt="gustavogit4" /> </p>
+Analista de Dados | Estatística Aplicada | Automação e Pipelines de Dados
 
-- 🌱 Atualmente estou cursando uma especialização em **Estatística para Ciência de Dados**  
-- 📚 Atualmente estou estudando sobre **estatística, SQL e Python**  
-- 📫 Como me encontrar: [LinkedIn](https://linkedin.com/in/gustavo-de-paula-silva-804463236) ou [Lattes](http://lattes.cnpq.br/1739937477939798)  
-- ⚡ Curiosidade: Adoro explorar novas ferramentas para análise de dados.
+Profissional com foco em análise e engenharia de dados, desenvolvimento de pipelines, modelagem estatística e construção de dashboards analíticos.
+Atualmente cursando pós-graduação em Estatística para Ciência de Dados (PUC Minas) e com experiência prática em Python, SQL, Power BI e bancos relacionais.
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gustavo-de-paula-silva-804463236" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gustavo linkedin" height="30" width="40" /></a>
-</p>
+Sobre mim
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left"> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-    <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/sql/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/> </a>
-</p>
+Interesse principal em engenharia de dados, análise estatística e automação.
 
-<h3 align="left">Estatísticas do GitHub:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavogit4&show_icons=true&locale=en&layout=compact" alt="gustavogit4" /></p>
+Experiência no desenvolvimento de pipelines utilizando Python + SQL.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavogit4&show_icons=true&locale=en" alt="gustavogit4" /></p>
+Conhecimento em modelagem dimensional e preparação de dados para BI.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavogit4&" alt="gustavogit4" /></p>
+Compromisso com boas práticas: versionamento, documentação e reprodutibilidade.
+
+Estudo contínuo em estatística, SQL avançado e DataOps.
+
+Projetos em Destaque
+E-commerce Data Analytics — Pipeline completo (Python, SQL, Power BI)
+
+Projeto profissional que integra todas as camadas do fluxo analítico:
+
+Geração de dados sintéticos realistas
+
+Transformações e integrações com Pandas + SQL
+
+Banco de dados SQLite em modelo estrela
+
+Automação do pipeline via script Python
+
+Dashboard em Power BI conectado ao banco e aos CSVs exportados
+
+Repositório:
+https://github.com/gustavogit4/ecommerce-data-analytics
+
+Habilidades Técnicas
+Área	Competências
+Linguagens	Python, SQL
+Análise de Dados	Pandas, NumPy, Estatística descritiva e inferencial
+Banco de Dados	SQLite, consultas SQL
+Visualização	Power BI
+Engenharia de Dados	Pipelines, automação, manipulação de dados
+Ferramentas	Git, GitHub, VS Code, Jupyter Notebook
+Contato
+
+LinkedIn: https://www.linkedin.com/in/gustavo-paula-silva
+
+GitHub: https://github.com/gustavogit4
+
+E-mail: gdepaulasilva966@gmail.com
+
+Estatísticas do GitHub
+
+(opcional — pode remover sem problema caso não queira)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavogit4&show_icons=true&theme=default)
