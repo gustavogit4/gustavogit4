@@ -36,7 +36,8 @@ https://github.com/gustavogit4/ecommerce-data-analytics
 **SQL** – modelagem relacional, consultas analíticas, joins, agregações  
 **Power BI** – dashboards, modelagem, DAX  
 **Ferramentas** – Git & GitHub, VS Code, Jupyter Notebook  
-**Fundamentos** – ETL/ELT, Star Schema, DataOps, estatística aplicada, métricas de negócio
+**Fundamentos** – ETL/ELT, Star Schema, DataOps, estatística aplicada, métricas de negócio  
+
 ---
 
 ---
